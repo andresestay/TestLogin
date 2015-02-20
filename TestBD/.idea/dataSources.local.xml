@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="TestBD dev" uuid="ad316dcf-318d-4438-92ff-b7b9aa452f9d">
+      <user-name>root</user-name>
+      <user-password>dfcbdfc4dfcedfd8dfcfdfd9</user-password>
+      <schema-pattern>testlogin.*</schema-pattern>
+      <default-schemas>testlogin.*</default-schemas>
+    </data-source>
+  </component>
+</project>
